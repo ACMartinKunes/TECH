@@ -11,6 +11,7 @@
 
 4.úprava
 
-#THINKPAD
+#LENOVO
+##THINKPAD
 
 ####dalsi nepodstatny text
