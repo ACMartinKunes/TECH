@@ -18,6 +18,7 @@
 
 | sloupec 1     | sloupec 2     | sloupec 3  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| polozka      | centr | 123456 |
+| jina polozka     | stred      |   987456 |
+| dalsi polozka | posledni      |    555 |
+
