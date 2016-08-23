@@ -14,10 +14,3 @@ Dopis posledních vět
 ####Závěr
 
 another sentence
-
-
-
-
-další věta
-
-další
