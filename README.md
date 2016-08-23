@@ -4,13 +4,14 @@
 ##text z jineho profilu
 
 1.úprava
-###1.5 test
+
 2.úprava
 
 3.uprava
 
-##MAJITEL
+4.úprava
+
+#LENOVO
+##THINKPAD
 
 ####dalsi nepodstatny text
-
-[odkaz](http://google.com)
