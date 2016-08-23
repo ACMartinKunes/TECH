@@ -28,3 +28,8 @@ DOWN
 LEFT@RIGHT
 
 ROCKNROLL
+Batoh
+
+KOlo
+
+Slovo
