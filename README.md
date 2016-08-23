@@ -10,3 +10,5 @@
 3.uprava
 
 ##MAJITEL
+
+####dalsi nepodstatny text
