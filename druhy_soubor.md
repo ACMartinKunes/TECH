@@ -3,6 +3,7 @@
 1. Vítěz
 2. Start
 3. Konec
+4. Prohra
 
 [GOOGLE](http://google.com)
 
