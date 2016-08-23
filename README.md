@@ -33,3 +33,10 @@ Batoh
 KOlo
 
 Slovo
+
+
+mlyn
+
+pes
+
+jack
