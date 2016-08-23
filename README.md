@@ -12,3 +12,5 @@
 ##MAJITEL
 
 ####dalsi nepodstatny text
+
+[odkaz](http://google.com)
