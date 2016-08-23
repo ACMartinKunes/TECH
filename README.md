@@ -24,3 +24,5 @@
 
 roll!
 UP!
+DOWN
+LEFT@RIGHT
