@@ -8,3 +8,5 @@
 2.úprava
 
 3.uprava
+
+##MAJITEL
