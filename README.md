@@ -45,3 +45,6 @@ jack
 řádek u konce
 asi poslední
 text
+
+
+POSLEDNI VETA
