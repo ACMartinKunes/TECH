@@ -28,3 +28,20 @@ DOWN
 LEFT@RIGHT
 
 ROCKNROLL
+Batoh
+
+KOlo
+
+Slovo
+
+
+mlyn
+
+pes
+
+jack
+
+
+řádek u konce
+asi poslední
+text
