@@ -28,3 +28,15 @@ DOWN
 LEFT@RIGHT
 
 ROCKNROLL
+Batoh
+
+KOlo
+
+Slovo
+
+
+mlyn
+
+pes
+
+jack
