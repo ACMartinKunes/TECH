@@ -1,14 +1,11 @@
-#Práce s tabulkou
+-------------------------------------------------------------
+ Centered   Default           Right Left
+  Header    Aligned         Aligned Aligned
+----------- ------- --------------- -------------------------
+   First    row                12.0 Example of a row that
+                                    spans multiple lines.
 
-
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned |  can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo.|
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned |  can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo can merge them using HTML. When I create tables in .md files from Github, ... Can one create a list (bullets, numbered or not) inside a markdown table. ... @TreborRude Sure, yo.|
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+  Second    row                 5.0 Here's another one. Note
+                                    the blank line between
+                                    rows.
+-------------------------------------------------------------
