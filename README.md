@@ -18,7 +18,8 @@
 
 | sloupec 1     | sloupec 2     | sloupec 3  |
 | ------------- |:-------------:| -----:|
-| polozka      | centr | 123456 |
+| polozka     
+asdsadasdasdasa | centrasdsad | 123456 |
 | jina polozka     | stred      |   987456 |
 | dalsi polozka | posledni      |    555 |
 
