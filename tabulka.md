@@ -12,14 +12,8 @@
 
 +---------------+---------------+--------------------+
 | Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   |     Jenom tak klidně     |
-|               | next line     | levitují ve vzduchu. |
-|               | next line     | Jelikož slunce jasně září |
-|               | next line     | a na obloze byste od. |
-|               | next line     | levitují ve vzduchu. |
-|               | next line     | levitují ve vzduchu. |
 +---------------+---------------+--------------------+
 | Bananas       | first line\   | first line\        |
 |               | next line     | next line          |
 +---------------+---------------+--------------------+
+
