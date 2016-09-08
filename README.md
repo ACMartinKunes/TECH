@@ -13,20 +13,7 @@
 
 #THINKPAD
 
-####dalsi nepodstatny text
 
-
-| sloupec 1     | sloupec 2     | sloupec 3  |
-| ------------- |:-------------:| -----:|
-| polozka     
-asdsadasdasdasa | centrasdsad | 123456 |
-| jina polozka     | stred      |   987456 |
-| dalsi polozka | posledni      |    555 |
-
-roll!
-UP!
-DOWN
-LEFT@RIGHT
 
 ROCKNROLL
 Batoh
