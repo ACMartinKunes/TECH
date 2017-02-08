@@ -28,4 +28,4 @@ eeee
 another sentence
 
 
-#### Závěr
+#### KONEC
